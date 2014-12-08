@@ -1,10 +1,21 @@
+/*!
+ * Hover The Rainbow
+ * Version: 1.0
+ * Author: Alessandro Pilastrini
+ * Author email: alessandropilastrini@gmail.com
+ * Github: https://github.com/AlessandroPilastrini/hover-the-rainbow/
+ * Made available under a MIT License:
+ * http://www.opensource.org/licenses/mit-license.php
+ * Hover The Rainbow Copyright Alessandro Pilastrini 2014.
+ */
+ 
 body{
   background: #305979;
   font-family: 'Ubuntu', sans-serif;
 }
 
 .title{
-  margin: 20px auto 0 auto;
+  margin: 50px auto 0 auto;
   text-align:center;
   color: #fff;
   font-size: 32px;
