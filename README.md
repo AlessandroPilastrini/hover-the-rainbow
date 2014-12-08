@@ -1,7 +1,7 @@
 hover-the-rainbow
 =================
 
-Hover The Rainbow is a simple hover effect for card and box html element, 100% CSS.
+Hover The Rainbow is a simple hover effect for card and box element, 100% CSS.
 
 License
 =================
